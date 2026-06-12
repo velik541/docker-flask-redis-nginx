@@ -1,0 +1,7 @@
+@'
+__pycache__
+*.pyc
+.env
+.git
+.vscode
+'@ | Out-File -Encoding utf8 .dockerignore
